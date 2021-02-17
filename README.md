@@ -1,4 +1,4 @@
-# carouselMmap
+# carouselMap
 js简单实现轮播图效果
 打开主页即可查看效果；
 
